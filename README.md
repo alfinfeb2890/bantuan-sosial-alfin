@@ -6,12 +6,6 @@ Selamat datang di repository aplikasi **Pendataan Penerima Bantuan Sosial** meng
 
 ---
 
-## 🎬 Pendahuluan
-
-> "Selamat datang di dokumentasi proyek saya! Di sini Anda akan belajar bagaimana membangun aplikasi CRUD Laravel untuk pendataan profil penerima bantuan sosial. Kita akan membahas struktur database, logika kode program, serta tampilan dan fungsionalitas aplikasinya."
-
----
-
 ## 🗄️ Bagian 1: Rancangan Database
 
 Aplikasi ini menggunakan satu tabel utama bernama `beneficiaries`, yang menyimpan data penerima bantuan.
